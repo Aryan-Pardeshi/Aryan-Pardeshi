@@ -1,25 +1,41 @@
-<h1 align="center">Hi 👋, I'm Aryan Pardeshi</h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | Exploring Agentic AI & LLMs</h3>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Pardeshi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Agentic%20Systems%20Architect&descAlignY=65" />
+</div>
 
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Aryan-Pardeshi&label=PROFILE%20VIEWS&style=for-the-badge&color=e15f41" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Aryan-Pardeshi&label=PROFILE%20VIEWS&style=for-the-badge&color=2ed573" alt="Profile Views" />
+  </a>
+  <a href="https://linkedin.com/in/aryan-pardeshi-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:aryanpardeshi605@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-OPEN-2ed573?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan-pardeshi-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-pardeshi-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/aryanpardeshi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanpardeshi4" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
+### 🛠️ Tech Stack & Proficiency
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Agentic Frameworks** | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white) |
+| **ML & Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) |
+
+---
+
+### 🧬 About Me
+* **Focus Areas:** Deeply engaged in building **Agentic AI systems**, multi-agent orchestrations, and advanced **RAG architectures**.
+* **Core Technical Direction:** Developing autonomous workflows and production-grade Generative AI integrations.
+
+---
+
+
+### 📈 GitHub Ecosystem
+
 <div align="center">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan-Pardeshi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Aryan-Pardeshi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
