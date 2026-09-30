@@ -20,10 +20,10 @@ Second-year IT student building agentic AI systems, multi-agent orchestration, a
 | Project | Contribution | PR |
 | :--- | :--- | :---: |
 | **qdrant-client** | Fixed datetime parse fallback to correctly complete hour-only UTC offsets | [#1350](https://github.com/qdrant/qdrant-client/pull/1350) |
-| **Presidio** | Security fix for the anonymizer — bumped `cryptography` for GHSA-g6cj-pr64-35w5 | [#2231](https://github.com/data-privacy-stack/presidio/pull/2231) |
-| **awesome-llm-apps** | Built an AI Codebase Migration Agent using LangGraph HITL + parallel `Send()` fan-out | [#1059](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1059) |
+| **Presidio** | Security fix for anonymizer — bumped `cryptography` to patch GHSA-g6cj-pr64-35w5 | [#2231](https://github.com/data-privacy-stack/presidio/pull/2231) |
+| **awesome-llm-apps** | Built an AI Codebase Migration Agent using LangGraph HITL + parallel `Send()` agents | [#1059](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1059) |
 | **txtai** | Added max pooling support | [#1186](https://github.com/neuml/txtai/pull/1186) |
-| **datamodel-code-generator** | Fixed parser handling to render non-finite values structurally | [#3770](https://github.com/koxudaxi/datamodel-code-generator/pull/3770) |
+| **datamodel-code-generator** | Replaced regex-based inf/nan detection with AST analysis, fixing false-positive imports | [#3770](https://github.com/koxudaxi/datamodel-code-generator/pull/3770) |
 | **txtai** | Converted the MUVERA algorithm from NumPy to PyTorch | [#1178](https://github.com/neuml/txtai/pull/1178) |
 | **Haystack** | Enabled mypy typing checks for writer component tests | [#12272](https://github.com/deepset-ai/haystack/pull/12272) |
 
