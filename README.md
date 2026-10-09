@@ -4,7 +4,11 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-pardeshi-dev)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanpardeshi605@gmail.com)
-  
+  <p align="left">
+  <a href="https://aryanpardeshi.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
   ---
   
   ## About
