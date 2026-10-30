@@ -1,6 +1,6 @@
 # Hey! I'm Aryan Pardeshi 👋
 
-**AI/ML Engineering Student | Agentic Systems & RAG**
+**AI/ML Engineering Student | Agentic Systems & RAG | Open to AI/ML Internships**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-pardeshi-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanpardeshi605@gmail.com)
@@ -13,25 +13,30 @@
 
 ## About
 
-Second-year Information Technology student focused on AI engineering, agentic systems, retrieval-augmented generation (RAG), and machine learning infrastructure. I build AI-powered applications and contribute to open-source Python projects, working across application logic, data processing, type systems, testing, and ML tooling.
+Second-year Information Technology student focused on AI engineering, agentic systems, retrieval-augmented generation (RAG), and machine learning infrastructure. I build AI-powered applications and contribute to established open-source projects, working across application logic, data processing, type systems, testing, and ML tooling.
 
 **Focus areas:** Agentic workflows with LangGraph, RAG architectures, LLM applications, PyTorch, and ML systems fundamentals.
 
 ## Open Source Contributions
 
-Contributing to established open-source projects across AI infrastructure, machine learning, data engineering, and developer tooling.
+**16 merged pull requests across 14 external repositories**, contributing to AI infrastructure, machine learning, data engineering, security, and developer tooling.
 
-| Project | Contribution | Pull Request |
+| Project | Contributions | Merged PRs |
 | :--- | :--- | :---: |
-| **LiteLLM** | Contributed a Gemini thought-summary toggle; merged after maintainer review and further development | [#36460](https://github.com/BerriAI/litellm/pull/36460) |
-| **dlt** | Initiated a fix mapping Oracle `TIMESTAMP WITH LOCAL TIME ZONE` to timezone-aware metadata; extended by maintainers | [#4343](https://github.com/dlt-hub/dlt/pull/4343) |
-| **qdrant-client** | Fixed datetime parsing fallback for hour-only UTC offsets | [#1350](https://github.com/qdrant/qdrant-client/pull/1350) |
-| **Presidio** | Updated `cryptography` to address GHSA-g6cj-pr64-35w5 in the anonymizer dependency | [#2231](https://github.com/microsoft/presidio/pull/2231) |
-| **awesome-llm-apps** | Built an AI codebase migration agent using LangGraph, human-in-the-loop workflows, and parallel `Send()` agents | [#1059](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1059) |
-| **txtai** | Added max pooling support | [#1186](https://github.com/neuml/txtai/pull/1186) |
-| **datamodel-code-generator** | Replaced regex-based infinity/NaN detection with AST analysis to prevent false-positive imports | [#3770](https://github.com/koxudaxi/datamodel-code-generator/pull/3770) |
-| **txtai** | Converted the MUVERA algorithm from NumPy to PyTorch | [#1178](https://github.com/neuml/txtai/pull/1178) |
-| **Haystack** | Enabled mypy type checking for writer component tests | [#12272](https://github.com/deepset-ai/haystack/pull/12272) |
+| **LiteLLM** | Gemini thought-summary toggle | [#36460](https://github.com/BerriAI/litellm/pull/36460) |
+| **dlt** | Oracle timezone-aware timestamp mapping | [#4343](https://github.com/dlt-hub/dlt/pull/4343) |
+| **Qdrant Client** | Fixed UTC offset datetime parsing | [#1350](https://github.com/qdrant/qdrant-client/pull/1350) |
+| **Presidio** | Cryptography security dependency update | [#2231](https://github.com/data-privacy-stack/presidio/pull/2231) |
+| **awesome-llm-apps** | LangGraph AI codebase migration agent with HITL and parallel workers | [#1059](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1059) |
+| **txtai** | Added max pooling and ported MUVERA from NumPy to PyTorch | [#1186](https://github.com/neuml/txtai/pull/1186) · [#1178](https://github.com/neuml/txtai/pull/1178) |
+| **datamodel-code-generator** | Improved structural handling of non-finite values | [#3770](https://github.com/koxudaxi/datamodel-code-generator/pull/3770) |
+| **Haystack** | Enabled mypy checks for writer component tests | [#12272](https://github.com/deepset-ai/haystack/pull/12272) |
+| **Kubeflow MCP Server** | Fixed TrainJob pod matching in crash-log fallback | [#370](https://github.com/kubeflow/mcp-server/pull/370) |
+| **OWASP OpenCRE** | Allowed `/` in CRE names for REST and MCP lookups | [#1148](https://github.com/OWASP/OpenCRE/pull/1148) |
+| **TensorMap** | API validation fixes and concurrent export collision prevention | [#483](https://github.com/c2siorg/tensormap/pull/483) · [#426](https://github.com/c2siorg/tensormap/pull/426) |
+| **Dataloom** | Fixed histogram binning for infinite values | [#600](https://github.com/c2siorg/dataloom/pull/600) |
+| **is-a-dev** | Added Vercel domain configuration | [#56927](https://github.com/is-a-dev/register/pull/56927) |
+| **gitree** | Improved CLI argument grouping | [#170](https://github.com/ShahzaibAhmad05/gitree/pull/170) |
 
 ## Tech Stack
 
@@ -52,4 +57,4 @@ Contributing to established open-source projects across AI infrastructure, machi
 
 ---
 
-*Building, learning, and contributing to open source — one meaningful improvement at a time.*
+*Open to AI/ML engineering, LLM engineering, and agentic AI internships.*
