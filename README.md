@@ -19,24 +19,19 @@ Second-year Information Technology student focused on AI engineering, agentic sy
 
 ## Open Source Contributions
 
-**16 merged pull requests across 14 external repositories**, contributing to AI infrastructure, machine learning, data engineering, security, and developer tooling.
+**11 merged pull requests across 9 external repositories**, contributing to AI infrastructure, machine learning, data engineering, security, and developer tooling.
 
 | Project | Contributions | Merged PRs |
 | :--- | :--- | :---: |
 | **LiteLLM** | Gemini thought-summary toggle | [#36460](https://github.com/BerriAI/litellm/pull/36460) |
 | **dlt** | Oracle timezone-aware timestamp mapping | [#4343](https://github.com/dlt-hub/dlt/pull/4343) |
 | **Qdrant Client** | Fixed UTC offset datetime parsing | [#1350](https://github.com/qdrant/qdrant-client/pull/1350) |
-| **Presidio** | Cryptography security dependency update | [#2231](https://github.com/data-privacy-stack/presidio/pull/2231) |
-| **awesome-llm-apps** | LangGraph AI codebase migration agent with HITL and parallel workers | [#1059](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1059) |
 | **txtai** | Added max pooling and ported MUVERA from NumPy to PyTorch | [#1186](https://github.com/neuml/txtai/pull/1186) · [#1178](https://github.com/neuml/txtai/pull/1178) |
 | **datamodel-code-generator** | Improved structural handling of non-finite values | [#3770](https://github.com/koxudaxi/datamodel-code-generator/pull/3770) |
-| **Haystack** | Enabled mypy checks for writer component tests | [#12272](https://github.com/deepset-ai/haystack/pull/12272) |
 | **Kubeflow MCP Server** | Fixed TrainJob pod matching in crash-log fallback | [#370](https://github.com/kubeflow/mcp-server/pull/370) |
 | **OWASP OpenCRE** | Allowed `/` in CRE names for REST and MCP lookups | [#1148](https://github.com/OWASP/OpenCRE/pull/1148) |
 | **TensorMap** | API validation fixes and concurrent export collision prevention | [#483](https://github.com/c2siorg/tensormap/pull/483) · [#426](https://github.com/c2siorg/tensormap/pull/426) |
-| **Dataloom** | Fixed histogram binning for infinite values | [#600](https://github.com/c2siorg/dataloom/pull/600) |
-| **is-a-dev** | Added Vercel domain configuration | [#56927](https://github.com/is-a-dev/register/pull/56927) |
-| **gitree** | Improved CLI argument grouping | [#170](https://github.com/ShahzaibAhmad05/gitree/pull/170) |
+| **awesome-llm-apps** | LangGraph AI codebase migration agent with HITL and parallel workers | [#1059](https://github.com/Shubhamsaboo/awesome-llm-apps/pull/1059) |
 
 ## Tech Stack
 
