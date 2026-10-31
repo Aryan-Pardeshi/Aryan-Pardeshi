@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-pardeshi-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanpardeshi605@gmail.com)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Aryan-Pardeshi/badge.svg)](https://hub.xerj.org/contributors/Aryan-Pardeshi)
 
 <p align="left">
   <a href="https://aryanpardeshi.tech/" target="_blank">
